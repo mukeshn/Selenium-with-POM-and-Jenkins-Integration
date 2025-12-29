@@ -1,2 +1,8 @@
-# Selenium-with-POM-and-Jenkins-Integration
-Selenium test using Page-Object-Model running on Maven build, TestNG framework and Allure Report.  Topics
+# selenium-java-pom-example
+
+This example currently supports Linux and Windows, both with Java 8 and above. Maven and Chrome browser are also required.
+
+To run on Windows or Linux, simply clone the repository and from root project diectory run:
+```
+mvn test
+```
